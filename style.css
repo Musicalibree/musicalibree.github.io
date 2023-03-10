@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@300&family=Tilt+Warp&display=swap");
+html {
+  width: 100%;
+  padding: 0;
+}
+body {
+  background-color: #e8d5c4;
+}
+.top {
+  width: 900px;
+  text-align: center;
+  background-color: #3a98b9;
+  padding: 10px;
+  margin: 0 auto;
+}
+.top img {
+  width: 200px;
+  border-radius: 90px;
+  border: 1px solid black;
+}
+.top h1 {
+  font-family: "Tilt Warp", cursive;
+}
+.top p {
+  font-family: "Tilt Warp", cursive;
+  font-size: 20px;
+}
+.about {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #eeeeee;
+  padding: 10px;
+}
+h3 {
+  font-family: "Tilt Warp", cursive;
+  font-size: 30px;
+}
+h4 {
+  font-family: "Prompt", sans-serif;
+  font-size: 25px;
+}
+.about p {
+  font-family: "Prompt", sans-serif;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.about ul li {
+  font-family: "Prompt", sans-serif;
+  padding-left: 20px;
+  font-size: 20px;
+}
+.educ {
+  width: 900px;
+  background-color: #eeeeee;
+  margin: 0 auto;
+  padding: 10px;
+}
+.educ ul li {
+  font-family: "Prompt", sans-serif;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.work {
+  width: 900px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: #eeeeee;
+}
+.work ul li {
+  font-family: "Prompt", sans-serif;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.skills {
+  width: 900px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: #eeeeee;
+}
+.skills ul li {
+  font-family: "Prompt", sans-serif;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.prog li {
+  display: flex;
+  justify-content: space-between;
+}
+progress {
+  border: none;
+  width: 400px;
+  height: 20px;
+  background: crimson;
+}
+progress {
+  color: #3a98b9;
+}
+.cert {
+  width: 900px;
+  padding: 10px;
+  margin: 0 auto;
+  background-color: #eeeeee;
+}
+.cert ul li {
+  font-family: "Prompt", sans-serif;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.icons {
+  text-align: right;
+}
+.icons img {
+  width: 60px;
+}
